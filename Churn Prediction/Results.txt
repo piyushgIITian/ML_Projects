@@ -1,0 +1,7 @@
+# Models Used:                                                    Accuracy
+
+1.Ridge Classifier								76%
+2.Random Forest									84%
+3.SVM 										79%
+4.Decision Tree									99%									
+5.Improved Random Forest using gridsearchcv				90%
