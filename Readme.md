@@ -28,7 +28,7 @@ Deep NLP Classifier : Tensorflow, PyTorch
 GAN : Tensorflow, OpenCV
 
 9. Gameplaying ML Models
-Reinforcement Learning : OpenAI Gym, Stable Baselines
+ : OpenAI Gym, Stable Baselines
 
 10. Machine Translation
 Sequence to sequence : Tensorflow, Pytorch
